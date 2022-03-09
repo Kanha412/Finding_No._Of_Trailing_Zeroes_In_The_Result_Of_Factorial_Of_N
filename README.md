@@ -2,7 +2,7 @@
 <h3>A Simple Yet Confusing Programming Question! - <i>Write A Program To Find The Trailing Zeroes In The Result Of Factorial Of N ??</i></h3>
 <b><p>Trailing Zeroes :- After result of factorial, the zeroes at the end are called trailing zeroes of factorial.</p></b>
 <p>We can't find a factorial's result first and then count its trailing zeroes because factorials' answers can be a very huge number of digits and it may result in overflowing. And then counting the trailing zeroes may lead to a large Time Complexity. Hence, we have to use a different style to solve this problem.</p>
-<h3>Programming Languages Used To Solve This Problem :- Both C and C++</h3>
+<h3>Programming Languages Used To Solve This Problem :- Both C and C++ <i>(But Can be Understand By Any Language Users)</i></h3>
 <hr>
 <h3>Constraints:</h3>
 <h3><i>N≥0</i></h3>
@@ -33,3 +33,5 @@
 <p>For N=0, 0! = 1. So it has no trailing zeroes. Therefore, answer is 0.</p>
 <hr>
 <p>Hence, Here is the most optimized solution of this programming question with <b>Time Complexity :- log(N).</b></p>
+![Screenshot (435)](https://user-images.githubusercontent.com/85762282/157541811-b8c70823-6820-4704-8ffd-8d540094552a.png)
+

@@ -33,5 +33,3 @@
 <p>For N=0, 0! = 1. So it has no trailing zeroes. Therefore, answer is 0.</p>
 <hr>
 <p>Hence, Here is the most optimized solution of this programming question with <b>Time Complexity :- log(N).</b></p>
-![Screenshot (435)](https://user-images.githubusercontent.com/85762282/157541811-b8c70823-6820-4704-8ffd-8d540094552a.png)
-

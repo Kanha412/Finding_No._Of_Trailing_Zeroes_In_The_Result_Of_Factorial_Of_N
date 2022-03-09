@@ -33,11 +33,3 @@
 <p>For N=0, 0! = 1. So it has no trailing zeroes. Therefore, answer is 0.</p>
 <hr>
 <p>Hence, Here is the most optimized solution of this programming question with <b>Time Complexity :- log(N).</b></p>
-<br>
-![Screenshot (435)](https://user-images.githubusercontent.com/85762282/157540923-558204b9-2843-4745-86ad-dfe23567e5c5.png)
-<br><br>
-![Screenshot (436)](https://user-images.githubusercontent.com/85762282/157540927-9aa21962-8643-40b5-b0eb-9fcc44a8766a.png)
-<br><br>
-![Screenshot (437)](https://user-images.githubusercontent.com/85762282/157540928-66b04aa2-64d0-46d3-af5d-6a123f32e0e1.png)
-<br><br>
-![Screenshot (438)](https://user-images.githubusercontent.com/85762282/157540930-fe37c773-26c7-4975-ad1d-f8fe38e1a322.png)
